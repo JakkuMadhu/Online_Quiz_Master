@@ -18,6 +18,5 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Flask / FastAPI (for dynamic quizzes & user tracking)
 
-Database: SQLite / Firebase (for storing questions & user scores)
-
 APIs: Open Trivia API (optional for dynamic quizzes)
+
